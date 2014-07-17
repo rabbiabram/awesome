@@ -24,6 +24,7 @@
 - [PHP](https://github.com/ziadoz/awesome-php)
 - [Java](https://github.com/akullpp/awesome-java)
 - [Erlang](https://github.com/drobakowski/awesome-erlang)
+- [Fortran](https://github.com/rabbiabram/awesome-fortran)
 
 ## Miscellaneous
 
